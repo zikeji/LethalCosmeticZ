@@ -17,6 +17,14 @@ This cat idles on your head. Aw!
 
 [Source](https://assetstore.unity.com/packages/3d/characters/animals/lowpoly-toon-cat-lite-66083)
 
+### Animated Sparrow
+
+It might want a nest.
+
+![](https://github.com/zikeji/LethalCosmeticsZ/blob/main/cosmetics/AnimatedSparrow.png?raw=true)
+
+[Source](https://assetstore.unity.com/packages/p/quirky-series-free-animals-pack-178235)
+
 ### Animated Squid
 
 My personal favorite. It speaks to me deeply.
