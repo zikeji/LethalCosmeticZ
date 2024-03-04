@@ -38,4 +38,4 @@ jobs:
           token: ${{ secrets.THUNDERSTORE_TOKEN }}
           community: lethal-company
           categories: |
-            mods
+            cosmetics
