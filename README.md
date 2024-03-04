@@ -17,6 +17,30 @@ This cat idles on your head. Aw!
 
 [Source](https://assetstore.unity.com/packages/3d/characters/animals/lowpoly-toon-cat-lite-66083)
 
+### Animated Gecko
+
+Snakes on a plane!
+
+![](https://github.com/zikeji/LethalCosmeticsZ/blob/main/cosmetics/AnimatedGecko.png?raw=true)
+
+[Source](https://assetstore.unity.com/packages/p/quirky-series-free-animals-pack-178235)
+
+### Animated Herring
+
+A flying fish!
+
+![](https://github.com/zikeji/LethalCosmeticsZ/blob/main/cosmetics/AnimatedHerring.png?raw=true)
+
+[Source](https://assetstore.unity.com/packages/p/quirky-series-free-animals-pack-178235)
+
+### Animated Rabbit
+
+It's subtle, but it's alive.
+
+![](https://github.com/zikeji/LethalCosmeticsZ/blob/main/cosmetics/AnimatedRabbit.png?raw=true)
+
+[Source](https://assetstore.unity.com/packages/p/white-rabbit-138709)
+
 ### Animated Sparrow
 
 It might want a nest.
@@ -61,6 +85,22 @@ Who doesn't want an epic purple halo on their head?
 
 <details>
   <summary>Chest</summary>
+
+### Animated Colobus
+
+I have no clue what this is, but it is cute.
+
+![](https://github.com/zikeji/LethalCosmeticsZ/blob/main/cosmetics/AnimatedColobus.png?raw=true)
+
+[Source](https://assetstore.unity.com/packages/p/quirky-series-free-animals-pack-178235)
+
+### Animated Taipan
+
+Snakes on a plane!
+
+![](https://github.com/zikeji/LethalCosmeticsZ/blob/main/cosmetics/AnimatedTaipan.png?raw=true)
+
+[Source](https://assetstore.unity.com/packages/p/quirky-series-free-animals-pack-178235)
 
 ### Electric Yellow Cichlid
 
