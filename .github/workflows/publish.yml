@@ -1,0 +1,41 @@
+name: Publish
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - run: rm -rf cosmetics/*.png
+      - uses: vimtor/action-zip@v1.1
+        with:
+          files: manifest.json icon.png README.md CHANGELOG.md cosmetics/
+          recursive: true
+          dest: package.zip
+      - id: set_var
+        run: |
+          content=`cat ./manifest.json`
+          content="${content//'%'/'%25'}"
+          content="${content//$'\n'/'%0A'}"
+          content="${content//$'\r'/'%0D'}"
+          echo "::set-output name=manifestJson::$content"
+      - name: 'Upload Artifact'
+        uses: actions/upload-artifact@v4
+        with:
+          name: package
+          path: package.zip
+          retention-days: 5
+      - uses: GreenTF/upload-thunderstore-package@v4
+        with:
+          namespace: Zikeji
+          file: ./package.zip
+          name: ${{fromJson(steps.set_var.outputs.manifestJson).name}}
+          version: ${{fromJson(steps.set_var.outputs.manifestJson).version_number}}
+          token: ${{ secrets.THUNDERSTORE_TOKEN }}
+          community: lethal-company
+          categories: |
+            mods
