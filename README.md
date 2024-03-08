@@ -19,7 +19,7 @@ This cat idles on your head. Aw!
 
 ### Animated Gecko
 
-Snakes on a plane!
+This cute little guy is a little tuckered out.
 
 ![](https://github.com/zikeji/LethalCosmeticsZ/blob/main/cosmetics/AnimatedGecko.png?raw=true)
 
@@ -94,6 +94,14 @@ I have no clue what this is, but it is cute.
 
 [Source](https://assetstore.unity.com/packages/p/quirky-series-free-animals-pack-178235)
 
+### Animated Gecko (Curious)
+
+Unlike his brother, this one is still excited and wants to explore!
+
+![](https://github.com/zikeji/LethalCosmeticsZ/blob/main/cosmetics/AnimatedGeckoCurious.png?raw=true)
+
+[Source](https://assetstore.unity.com/packages/p/quirky-series-free-animals-pack-178235)
+
 ### Animated Taipan
 
 Snakes on a plane!
@@ -144,6 +152,14 @@ It may be out of place, but it's out of my place.
 
 <details>
   <summary>Hip</summary>
+
+### Repair Robot
+
+This little guy dreams of helping you get out of the facility successfully.
+
+![](https://github.com/zikeji/LethalCosmeticsZ/blob/main/cosmetics/RepairRobot.png?raw=true)
+
+[Source](https://assetstore.unity.com/packages/3d/characters/robots/tiny-robots-pack-98930)
 
 ### War Horn
 
