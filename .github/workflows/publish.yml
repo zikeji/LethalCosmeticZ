@@ -37,5 +37,4 @@ jobs:
           version: ${{fromJson(steps.set_var.outputs.manifestJson).version_number}}
           token: ${{ secrets.THUNDERSTORE_TOKEN }}
           community: lethal-company
-          categories: |
-            cosmetics
+          categories: cosmetics
