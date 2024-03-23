@@ -27,7 +27,7 @@ This cute little guy is a little tuckered out.
 
 ### Animated Herring
 
-A flying fish!
+A flying fish! It now swims around your head!
 
 ![](https://github.com/zikeji/LethalCosmeticsZ/blob/main/cosmetics/AnimatedHerring.png?raw=true)
 
@@ -64,6 +64,14 @@ Ephereal horns to match your ego.
 ![](https://github.com/zikeji/LethalCosmeticsZ/blob/main/cosmetics/Horns1.png?raw=true)
 
 [Source](https://www.turbosquid.com/3d-models/3d-horn-v1-interior-decor-1952420)
+
+### JiggleBurger
+
+This burger is fresh off the grill, eyes included, ready to sit there and bounce to your whims.
+
+![](https://github.com/zikeji/LethalCosmeticsZ/blob/main/cosmetics/JiggleBurger.png?raw=true)
+
+[Source](https://sketchfab.com/3d-models/cute-hamburger-free-3d-model-770128b2b9a34c2382a2acf02c444bf2)
 
 ### Nest Hat
 
